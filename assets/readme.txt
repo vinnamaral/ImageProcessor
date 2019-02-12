@@ -1,0 +1,1 @@
+Put here the <contry>.zip file that is in Mobility SDK, in Mobility/Parms/.
